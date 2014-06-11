@@ -23,8 +23,8 @@ message =  linecache.getline('data',no)
 import urlparse,sys,urllib,re
 import oauth2 as oauth
 from urllib2 import Request,urlopen
-consumer_key = 'be17b610736b5248511f9bab8244e814'
-consumer_secret = '04ac97fda668cf87860ae9fd182c58b5'
+consumer_key = 'api key'
+consumer_secret = 'api key'
 
 params={}
 params['status']=message
